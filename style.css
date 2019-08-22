@@ -29,7 +29,7 @@ nav {
     grid-column: 2/3;
     justify-self: center;
     align-self: center;
-    font-size: 2em;
+    font-size: 5vh;
 }
 
 img {
@@ -67,12 +67,13 @@ section {
     bottom: 10%;
     left: 10%;
     z-index: 1;
+    ;
 }
 
 .discription h1 {
-    font-size: 5rem;
+    font-size: 10vh;
 }
 
 .discription p {
-    font-size: 2rem;
+    font-size: 5vh;
 }
